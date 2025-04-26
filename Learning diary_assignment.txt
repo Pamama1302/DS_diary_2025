@@ -1,0 +1,21 @@
+5/April/2025
+Lyhenteiden määrittelyä
+CPU = central processing unit “brain”
+GPU = graphics processing unit (mm. kuvat tehty pixeleistä, jokainen pixeli on oma gpu:nsa)
+RAM = Random access memory
+Storage SSD = solid stage drive
+NIC = Network interface card
+VPN = virtual private network
+
+STEP 2 Add life to hardware = COOK
+BIOS – Launch programs, manage files, connect to internet…
+Security ? Diskencryption ? let a password prevent
+
+STEP 3 Operating system manage hardware = MacOS, Windows, Linux = kitchen managers
+TERMINAL = Command-line interface or shell ? CSC:n NOPPE Interface workspace
+Sieltä löytyy myös introduction to Python / R nämä Public -temporary spacessa. Kun MY WORK on ON-asennossa, työ tallentuu.
+Muutama komento: 
+Q = quit ? pääsee ”ulos” takaisin komentoriville
+cat = näyttää mitä sisältää (catalog)
+cd = change directory -> pääsee toiseen paikkaan
+
